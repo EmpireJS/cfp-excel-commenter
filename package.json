@@ -1,0 +1,13 @@
+{
+  "name": "cfp-excel-commenter",
+  "version": "1.0.0",
+  "description": "Imports stuff into Github and stuff",
+  "main": "index.js",
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.9.0",
+    "github": "~0.2.3",
+    "xlsx-rows": "~1.0.0"
+  }
+}
