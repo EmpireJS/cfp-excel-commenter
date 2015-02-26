@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+var importer = require('../');
+
+importer({}, function () {
+
+});
